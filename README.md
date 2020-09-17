@@ -85,7 +85,7 @@ Este projeto é divido em três partes:
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-be-the-hero.git
+$ git clone https://github.com/Felipe-Antoniati/app-be-the-hero.git
 
 ```
 
