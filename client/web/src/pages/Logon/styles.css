@@ -1,0 +1,41 @@
+.logon-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 350px;
+  margin-right: 90px;
+}
+
+.logon-container section.form form {
+  margin-top: 40px;
+}
+
+.logon-container section.form form h1{
+  font-size: 25px;
+  margin-bottom: 22px;
+}
+
+.logon-container section img {
+  width: 100%;
+  max-width: 250px;
+  margin-bottom: 20px;
+  margin-right: 90px;
+}
+
+.logon-container img {
+  width: 100%;
+  max-width: 550px;
+}
+
+.logon-container section.form form button {
+margin-bottom: 40px;
+}
