@@ -23,15 +23,6 @@ Este Projeto foi desenvolvido durante à **Semana omniStack** um evento oferecid
 
 O conteúdo é exibido durante **1 semana**, e em cada dia da semana, é apresentado uma etapa para o desenvolvimento do projeto, desde o **Back-end** até o **Front-end Web** e **Mobile**, utilizando as melhores tecnologias do mercado.
 
-<div align="center">
-  <h4>Layout do Projeto : </h4>
-  <img 
-    src="./client/web/src/assets/icons/figma.png" 
-    alt="Figma" 
-    height="20"
-  > Figma
-</div>
-
 
 <div align="center">
   <sub>Agradeço de 💜 à
