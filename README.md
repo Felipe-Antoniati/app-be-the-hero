@@ -1,7 +1,7 @@
-# Be The Hero - Ame o próximo
+# Be The Hero - Seja um Herói
 
 <h4 align="center"> 
-	<img src="./client/mobile/src/assets/logo.png"/>
+	<img src="./client/web/assets/logo.png"/>
 </h4>
 
 <p align="center">
