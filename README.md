@@ -1,7 +1,7 @@
-# Be The Hero - APP Filantrópico
+# Be The Hero - Ame o próximo
 
 <h4 align="center"> 
-	🚧  EM CONSTRUÇÃO!!! 🚧
+	<img src="./client/mobile/src/assets/logo.png"/>
 </h4>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ##  Sobre o projeto
 
-**Be The Hero** - Aplicativo Filantrópico para fazer a conexão entre ONG's que precisam de ajuda, e pessoas que querem ajudar!; Essa conexão é feita através de cadastros de casos de ajuda, por parte das ONG's, é da boa vontade de pessoas que querem ajudar.
+**Be The Hero** - É um Aplicativo Filantrópico para fazer a conexão entre ONG's que precisam de ajuda, e pessoas que querem ajudar!; Essa conexão é feita através de cadastros de casos de ajuda, por parte das ONG's, e da boa vontade de pessoas que querem ajudar.
 
 
 Este Projeto foi desenvolvido durante à **Semana omniStack** um evento oferecido pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). À **Semana omniStack** é um curso intensivo online e gratuito, com muito conteúdo prático e informativo! 
@@ -51,19 +51,18 @@ O conteúdo é exibido durante **1 semana**, e em cada dia da semana, é apresen
 
 ## ⚙️ Funcionalidades
 
-- [x] Os Professores tem acesso ao aplicativo Web, onde podem: 
+- [x] As Ongs tem acesso ao aplicativo Web, onde podem: 
   - [x] Cadastrar-se na plataforma enviando:
-    - [x] Uma imagem para o perfil (avatar).
     - [x] Nome completo, Email e Whatsapp.
-    - [x] Biografia.
-  - [x] Cadastrar Aulas selecionando:
-    - [x] Uma Matéria.
-    - [x] Um dia da semana.
-    - [x] Um horário.
+    - [x] Cidade e Estado.
+  - [x] Cadastrar Casos enviando:
+    - [x] Titulo.
+    - [x] Descrição.
+    - [x] Valor.
 
-- [x] Os Alunos tem acesso ao aplicativo Mobile, onde podem:
-  - [x] Selecionar a Matéria, o dia da semana e a hora que quer estudar.
-  - [x] Entrar em contato com os professores através do E-mail ou do WhatsApp.
+- [x] As Pessoas tem acesso ao aplicativo Mobile, onde podem:
+  - [x] Selecionar o Caso que quer ajudar através do Feed.
+  - [x] Entrar em contato com as ONGS através do E-mail ou do WhatsApp.
 
 ---
 
@@ -140,7 +139,7 @@ $ yarn install
 # Rode a aplicação
 $ yarn start
 
-Depois leia o QRCode com o app do Expo ou rode em um emulador.
+> Depois leia o QRCode com o app do Expo ou rode em um emulador.
 
 ```
 
@@ -168,21 +167,15 @@ As seguintes ferramentas foram utilizadas na construção do Projeto:
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node](https://github.com/TypeStrong/ts-node)**
--   **[dotENV](https://github.com/motdotla/dotenv)**
 
 > Veja o arquivo  [package.json](https://github.com/tgmarinho/README-be-the-hero/blob/master/server/package.json)
 
 #### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
--   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
--   **[React Navigation](https://reactnavigation.org/)**
--   **[React Native Maps](https://github.com/react-native-community/react-native-maps)**
 -   **[Expo Constants](https://docs.expo.io/versions/latest/sdk/constants/)**
--   **[React Native SVG](https://github.com/react-native-community/react-native-svg)**
--   **[Axios](https://github.com/axios/axios)**
--   **[Expo Location](https://docs.expo.io/versions/latest/sdk/location/)**
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
+-   **[React Navigation](https://reactnavigation.org/)**
 
 > Veja o arquivo  [package.json](https://github.com/tgmarinho/README-be-the-hero/blob/master/mobile/package.json)
 
