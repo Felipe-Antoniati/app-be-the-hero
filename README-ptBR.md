@@ -18,7 +18,7 @@
 **Be The Hero** - É um Aplicativo Filantrópico para fazer a conexão entre ONG's que precisam de ajuda, e pessoas que querem ajudar!; Essa conexão é feita através de cadastros de casos de ajuda, por parte das ONG's, e da boa vontade de pessoas que querem ajudar.
 
 <details>
-  <sumary>Clique aqui para ver mais informações</sumary>
+  <summary>Clique aqui para ver mais informações</summary>
   <section>
     <div>
       Este Projeto foi desenvolvido durante à <b>Semana omniStack</b> um evento oferecido pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. À <b>Semana omniStack<b> é um curso intensivo online e gratuito, com muito conteúdo prático e informativo!
@@ -66,7 +66,7 @@
 ## 🚀 Como executar o projeto
 
 <details>
-  <sumary>Clique aqui para ver os Pré-requisitos</sumary>
+  <summary>Clique aqui para ver os Pré-requisitos</summary>
   <section>
     <div>
     <h2>Este projeto é divido em três partes:</h2>
@@ -146,7 +146,7 @@ $ yarn start
 **As seguintes ferramentas foram utilizadas na construção do Projeto:**
 
 <details>
-  <sumary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://expressjs.com/">Express</a>
@@ -160,7 +160,7 @@ $ yarn start
   </section>
 </details>
 <details>
-  <sumary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a>
@@ -174,7 +174,7 @@ $ yarn start
   </section>
 </details>
 <details>
-  <sumary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://expo.io/">Expo</a>

@@ -18,7 +18,7 @@
 **Be The Hero** - It is a Philanthropic Application to make the connection between NGOs who need help, and people who want to help; This connection is made through the help of case records by NGOs, and the good will of people who want to help.
 
 <details>
-  <sumary>Click here for more informations</sumary>
+  <summary>Click here for more informations</summary>
   <section>
     <div>
      This Project was developed during the <b>omniStack Week</b> an event offered by <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. <b>omniStack Week<b> is a free online intensive course with lots of practical and informative content!
@@ -65,15 +65,14 @@
 ## How to run the project
 
 <details>
-  <sumary>Click here to see the Prerequisites</sumary>
+  <summary>This project is separated into three parts:</summary>
   <section>
     <div>
-    <h2>This project is separated into three parts:</h2>
     <h4>1 Back-end(server folder)</h4> 
     <h4>2 Front-end Web (web folder)</h4>
     <h4>3 Front-end Mobile (mobile folder)</h4>
     </br>
-    <h3>Front-end Web and Mobile applications need the Backend to be running to work.</h3>
+    <h2>Front-end Web and Mobile applications need the Backend to be running to work.</h2>
     </div>
   </section>
 </details>
@@ -145,7 +144,7 @@ $ yarn start
 **These are the tools used in the construction of the project:**
 
 <details>
-  <sumary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://expressjs.com/">Express</a>
@@ -159,7 +158,7 @@ $ yarn start
   </section>
 </details>
 <details>
-  <sumary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a>
@@ -173,7 +172,7 @@ $ yarn start
   </section>
 </details>
 <details>
-  <sumary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></sumary>
+  <summary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div>
       <a href="https://expo.io/">Expo</a>
