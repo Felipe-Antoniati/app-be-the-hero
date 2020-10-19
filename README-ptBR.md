@@ -21,14 +21,15 @@
   <summary>Clique aqui para ver mais informações</summary>
   <section>
     <div>
-      Este Projeto foi desenvolvido durante à <b>Semana omniStack</b> um evento oferecido pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. À <b>Semana omniStack<b> é um curso intensivo online e gratuito, com muito conteúdo prático e informativo!
+      Este Projeto foi desenvolvido durante à <b>Semana omniStack</b> um evento oferecido pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. À <b>Semana omniStack</b> é um curso intensivo online e gratuito, com muito conteúdo prático e informativo!
     </div>
+    <br />
     <div>
     O conteúdo é exibido durante <b>1 semana</b>, e em cada dia da semana, é apresentado uma etapa para o desenvolvimento do projeto, desde o <b>Back-end</b> até o <b>Front-end Web</b> e <b>Mobile</b>, utilizando as tecnologias: NodeJS + ReactJS + React Native.
     </div>  
   </section>
 </details>
-</br>
+<br />
  <div align="center">
   <sub>Agradeço de 💜 à
     <a href="https://github.com/diego3g">Diego Fernandez</a> e toda equipe:
@@ -73,7 +74,7 @@
     <h4>1 Back-end(pasta server)</h4> 
     <h4>2 Front-end Web (pasta web)</h4>
     <h4>3 Front-end Mobile (pasta mobile)</h4>
-    </br>
+    <br />
     <h3>💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.</h3>
     </div>
   </section>
@@ -154,7 +155,7 @@ $ yarn start
       <a href="http://knexjs.org/">KnexJS</a>
       <a href="https://github.com/mapbox/node-sqlite3">SQLite</a>
       <a href="https://github.com/TypeStrong/ts-node">ts-node</a>
-      </br>
+      <br />
       <h3> Veja o arquivo package.json para mais informações.</h3>
     </div>
   </section>
@@ -168,7 +169,7 @@ $ yarn start
       <a href="https://github.com/axios/axios">Axios</a>
       <a href="https://react-leaflet.js.org/en/">Leaflet</a>
       <a href="https://react-leaflet.js.org/">React Leaflet</a>
-      </br>
+      <br />
       <h3> Veja o arquivo package.json para mais informações.</h3>
     </div>
   </section>
@@ -181,7 +182,7 @@ $ yarn start
       <a href="https://docs.expo.io/versions/latest/sdk/constants/">Expo Constants</a>
       <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo Mail Composer</a>
       <a href="https://reactnavigation.org/">React Navigation</a>
-      </br>
+      <br />
       <h3> Veja o arquivo package.json para mais informações.</h3>
     </div>
   </section>

@@ -21,14 +21,15 @@
   <summary>Click here for more informations</summary>
   <section>
     <div>
-     This Project was developed during the <b>omniStack Week</b> an event offered by <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. <b>omniStack Week<b> is a free online intensive course with lots of practical and informative content!
+     This Project was developed during the <b>omniStack Week</b> an event offered by <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. <b>omniStack Week</b> is a free online intensive course with lots of practical and informative content!
     </div>
+    <br />
     <div>
     The content is displayed during <b>1 week</b>, and on each day of the week, a stage for the development of the project is presented, from the <b>Back-end</b> to the <b>Front-end Web</b> and <b>Mobile</b>, using the technologies: NodeJS + ReactJS + React Native.
     </div>  
   </section>
 </details>
-</br>
+<br />
  <div align="center">
   <sub>I sincerely thank:
     <a href="https://github.com/diego3g">Diego Fernandez</a> and whole team:
@@ -43,25 +44,6 @@
 </div>
 
 ---
-
-## Functionalities
-
-- [x] NGOs have access to the Web application, where they can:
-
-  - [x] Register on the platform by sending:
-    - [x] Full Name, Email e Whatsapp.
-    - [x] City e State.
-  - [x] Register incidents sending:
-    - [x] Title.
-    - [x] Description.
-    - [x] Value.
-
-- [x] The people have acess on app mobile, where they can:
-  - [x] Select an incident that you can help through Feed
-  - [x] Contact NGOs via E-mail or WhatsApp.
-
----
-
 ## How to run the project
 
 <details>
@@ -71,7 +53,7 @@
     <h4>1 Back-end(server folder)</h4> 
     <h4>2 Front-end Web (web folder)</h4>
     <h4>3 Front-end Mobile (mobile folder)</h4>
-    </br>
+    <br />
     <h2>Front-end Web and Mobile applications need the Backend to be running to work.</h2>
     </div>
   </section>
@@ -139,6 +121,24 @@ $ yarn start
 
 ---
 
+## Functionalities
+
+- [x] NGOs have access to the Web application, where they can:
+
+  - [x] Register on the platform by sending:
+    - [x] Full Name, Email e Whatsapp.
+    - [x] City e State.
+  - [x] Register incidents sending:
+    - [x] Title.
+    - [x] Description.
+    - [x] Value.
+
+- [x] The people have acess on app mobile, where they can:
+  - [x] Select an incident that you can help through Feed
+  - [x] Contact NGOs via E-mail or WhatsApp.
+
+---
+
 ## Technologies
 
 **These are the tools used in the construction of the project:**
@@ -146,13 +146,13 @@ $ yarn start
 <details>
   <summary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
-    <div>
+    <div style="display: flex; flex-direction: column">
       <a href="https://expressjs.com/">Express</a>
       <a href="https://expressjs.com/en/resources/middleware/cors.html">Cors</a>
       <a href="http://knexjs.org/">KnexJS</a>
       <a href="https://github.com/mapbox/node-sqlite3">SQLite</a>
       <a href="https://github.com/TypeStrong/ts-node">ts-node</a>
-      </br>
+      <br />
       <h3> See the package.json file for more information.</h3>
     </div>
   </section>
@@ -160,13 +160,13 @@ $ yarn start
 <details>
   <summary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
-    <div>
+    <div style="display: flex; flex-direction: column">
       <a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a>
       <a href="https://react-icons.github.io/react-icons/">React Icons</a>
       <a href="https://github.com/axios/axios">Axios</a>
       <a href="https://react-leaflet.js.org/en/">Leaflet</a>
       <a href="https://react-leaflet.js.org/">React Leaflet</a>
-      </br>
+      <br />
       <h3> See the package.json file for more information.</h3>
     </div>
   </section>
@@ -174,12 +174,12 @@ $ yarn start
 <details>
   <summary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
-    <div>
+    <div style="display: flex; flex-direction: column">
       <a href="https://expo.io/">Expo</a>
       <a href="https://docs.expo.io/versions/latest/sdk/constants/">Expo Constants</a>
       <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo Mail Composer</a>
       <a href="https://reactnavigation.org/">React Navigation</a>
-      </br>
+      <br />
       <h3>See the package.json file for more information.</h3>
     </div>
   </section>
