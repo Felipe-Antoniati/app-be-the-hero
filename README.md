@@ -19,6 +19,7 @@
 
 <details>
   <summary>Click here for more informations</summary>
+  <br />
   <section>
     <div>
      This Project was developed during the <b>omniStack Week</b> an event offered by <a href="https://blog.rocketseat.com.br/primeira-next-level-week/">RocketSeat</a>. <b>omniStack Week</b> is a free online intensive course with lots of practical and informative content!
@@ -147,7 +148,9 @@ $ yarn start
       <a href="https://github.com/mapbox/node-sqlite3">SQLite</a><br />
       <a href="https://github.com/TypeStrong/ts-node">ts-node</a><br />
       <br />
-      <h2> See the package.json file for more information.</h2>
+      <sub>
+        <h2> See the package.json file for more information.</h2>      
+      </sub>
     </div>
   </section>
 </details>
@@ -161,7 +164,9 @@ $ yarn start
       <a href="https://react-leaflet.js.org/en/">Leaflet</a><br />
       <a href="https://react-leaflet.js.org/">React Leaflet</a><br />
       <br />
-      <h2> See the package.json file for more information.</h2>
+      <sub>
+        <h2> See the package.json file for more information.</h2>      
+      </sub>
     </div>
   </section>
 </details>
@@ -174,7 +179,9 @@ $ yarn start
       <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo Mail Composer</a><br />
       <a href="https://reactnavigation.org/">React Navigation</a><br />
       <br />
-      <h2>See the package.json file for more information.</h2>
+      <sub>
+        <h2> See the package.json file for more information.</h2>      
+      </sub>
     </div>
   </section>
 </details>
