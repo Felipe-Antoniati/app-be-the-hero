@@ -6,8 +6,8 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">About</a> •
- <a href="#-funcionalidades">Functionalities</a> •
  <a href="#-como-executar-o-projeto">How to run</a> • 
+ <a href="#-funcionalidades">Functionalities</a> •
  <a href="#-tecnologias">Technologies</a> • 
  <a href="#-autor">Author</a> • 
  <a href="#user-content--licença">License</a>
@@ -33,13 +33,7 @@
  <div align="center">
   <sub>I sincerely thank:
     <a href="https://github.com/diego3g">Diego Fernandez</a> and whole team:
-    <a href="https://github.com/rocketseat">
-      <img 
-        src="./client/web/src/assets/icons/rocketseat.svg" 
-        alt="rocketseat" 
-        height="20"
-      > Rocketseat
-    </a>
+    <a href="https://github.com/rocketseat">Rocketseat</a>
   </sub>
 </div>
 
@@ -147,13 +141,13 @@ $ yarn start
   <summary><b>Server - <a href="https://nodejs.org/en/">NodeJS</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div style="display: flex; flex-direction: column">
-      <a href="https://expressjs.com/">Express</a>
-      <a href="https://expressjs.com/en/resources/middleware/cors.html">Cors</a>
-      <a href="http://knexjs.org/">KnexJS</a>
-      <a href="https://github.com/mapbox/node-sqlite3">SQLite</a>
-      <a href="https://github.com/TypeStrong/ts-node">ts-node</a>
+      <a href="https://expressjs.com/">Express</a><br />
+      <a href="https://expressjs.com/en/resources/middleware/cors.html">Cors</a><br />
+      <a href="http://knexjs.org/">KnexJS</a><br />
+      <a href="https://github.com/mapbox/node-sqlite3">SQLite</a><br />
+      <a href="https://github.com/TypeStrong/ts-node">ts-node</a><br />
       <br />
-      <h3> See the package.json file for more information.</h3>
+      <h2> See the package.json file for more information.</h2>
     </div>
   </section>
 </details>
@@ -161,13 +155,13 @@ $ yarn start
   <summary><b>Web - <a href="https://reactjs.org">React</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div style="display: flex; flex-direction: column">
-      <a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a>
-      <a href="https://react-icons.github.io/react-icons/">React Icons</a>
-      <a href="https://github.com/axios/axios">Axios</a>
-      <a href="https://react-leaflet.js.org/en/">Leaflet</a>
-      <a href="https://react-leaflet.js.org/">React Leaflet</a>
+      <a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a><br />
+      <a href="https://react-icons.github.io/react-icons/">React Icons</a><br />
+      <a href="https://github.com/axios/axios">Axios</a><br />
+      <a href="https://react-leaflet.js.org/en/">Leaflet</a><br />
+      <a href="https://react-leaflet.js.org/">React Leaflet</a><br />
       <br />
-      <h3> See the package.json file for more information.</h3>
+      <h2> See the package.json file for more information.</h2>
     </div>
   </section>
 </details>
@@ -175,12 +169,12 @@ $ yarn start
   <summary><b>Mobile - <a href="http://www.reactnative.com/">React Native</a> + <a href="https://www.typescriptlang.org/">Typescript</a></b></summary>
   <section>
     <div style="display: flex; flex-direction: column">
-      <a href="https://expo.io/">Expo</a>
-      <a href="https://docs.expo.io/versions/latest/sdk/constants/">Expo Constants</a>
-      <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo Mail Composer</a>
-      <a href="https://reactnavigation.org/">React Navigation</a>
+      <a href="https://expo.io/">Expo</a><br />
+      <a href="https://docs.expo.io/versions/latest/sdk/constants/">Expo Constants</a><br />
+      <a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">Expo Mail Composer</a><br />
+      <a href="https://reactnavigation.org/">React Navigation</a><br />
       <br />
-      <h3>See the package.json file for more information.</h3>
+      <h2>See the package.json file for more information.</h2>
     </div>
   </section>
 </details>
