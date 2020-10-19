@@ -149,7 +149,7 @@ $ yarn start
       <a href="https://github.com/TypeStrong/ts-node">ts-node</a><br />
       <br />
       <sub>
-        <h2> See the package.json file for more information.</h2>      
+        <p> See the package.json file for more information.</p>      
       </sub>
     </div>
   </section>
@@ -165,7 +165,7 @@ $ yarn start
       <a href="https://react-leaflet.js.org/">React Leaflet</a><br />
       <br />
       <sub>
-        <h2> See the package.json file for more information.</h2>      
+        <p> See the package.json file for more information.</p>      
       </sub>
     </div>
   </section>
@@ -180,7 +180,7 @@ $ yarn start
       <a href="https://reactnavigation.org/">React Navigation</a><br />
       <br />
       <sub>
-        <h2> See the package.json file for more information.</h2>      
+        <p> See the package.json file for more information.</p>      
       </sub>
     </div>
   </section>
