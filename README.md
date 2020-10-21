@@ -1,4 +1,4 @@
-# Be The Hero - Seja um Herói
+# Be The Hero
 
 <h4 align="center"> 
 	<img src="./client/web/src/images/logo.svg"/>
